@@ -7,4 +7,4 @@ Feedback welcome.
 
 #### Installation
 Put ArchCursorComplete folder into ~/.icons directory. For system-wide installation, put it in /usr/share/icons/ instead.
-For Arch Linux users, install xcursors-arch-cursor-complete package from the AUR.
+For Arch Linux users, install xcursor-arch-cursor-complete package from the AUR.
